@@ -1,2 +1,3 @@
 # Shift_Project
-HOLAAA!!
+SHIFT WORK APP PROJECT,
+to be defined...
